@@ -1,3 +1,5 @@
+<img src="./logo.svg" width="200px">
+
 # Web Frameworks Community Group (WFCG)
 
 The Web Frameworks Community Group is a W3C Community Group to disucss Web Frameworks and their role within the Web Platform. We seek to analyze and promote web standards which align to Web Frameworks, making them easier to build and maintain.
